@@ -112,8 +112,8 @@ change takes effect means you accept the updated terms.
 
 ## 13. Governing law
 
-These terms are governed by the laws of **[your country]**, and disputes are handled by the courts
-of **[your country / city]**, unless the law where you are located requires otherwise.
+These terms are governed by the laws of **Bangladesh**, and disputes are handled by the courts
+of **Bangladesh / Dhaka**, unless the law where you are located requires otherwise.
 
 ## 14. Contact
 
