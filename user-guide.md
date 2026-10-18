@@ -10,8 +10,7 @@ behind every finding.
 1. Install Deal Coach Spike from the Zoho Marketplace.
 2. Create an API key at **console.anthropic.com → API keys**. Analyses are billed by Anthropic to
    this account (about $0.05 per analysis).
-3. In Zoho CRM, open the Deal Coach Spike settings page ([confirm the exact menu path in your CRM,
-   e.g. Setup → Marketplace → installed extensions → Deal Coach Spike → Settings]), paste the key and click **Save key**. It is checked with Anthropic, stored encrypted, and only its
+3. In Zoho CRM, open the Deal Coach Spike settings page ([Setup → Marketplace → installed extensions → Deal Coach Spike → Settings]), paste the key and click **Save key**. It is checked with Anthropic, stored encrypted, and only its
    last 4 characters are shown afterwards.
 4. Optional, on the same page:
    - **Post a summary note on the deal after each analysis** (off by default).
@@ -62,4 +61,4 @@ organization ran this month and in earlier months, with an estimate of the Anthr
 
 ## Support
 
-[support email] · [website]
+khandakarnoushadurrahman@gmail.com
